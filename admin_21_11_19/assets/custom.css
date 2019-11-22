@@ -1,0 +1,94 @@
+.kt-grid--hor{
+
+	background-image: url(assets/media//bg/bg-1.jpg);
+    background-repeat: no-repeat;
+  
+    height: auto;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.form-control{
+	    height: 46px;
+    border-radius: 0;
+    border: none;
+    border-bottom: 0.07rem solid #ebecf1 !important;
+    padding: 1rem 0;
+    margin-top: 0.1rem;
+
+}
+.sign_text{
+	/*background-color:#192A56!important;*/
+        background-image: linear-gradient(to top right,#25CCF7,#3478df)!important;
+	border: none;
+}
+
+.sign_col{
+	color:#6b562c;
+}
+
+ .kt-login__logo img {
+vertical-align: middle;
+border-style: none;
+width: 50%;
+height: 50%;
+  margin-top: -12%;
+}
+
+
+.kt-login.kt-login--v3 .kt-login__wrapper {
+   
+    margin: 17px auto 2rem auto;
+   
+}
+
+.kt-login__container{
+    margin-top: -21%;
+}
+.dash_back{
+    background-color:#192a55!important;
+
+}
+
+.kt-aside__brand-logo img{
+    width:100%;
+    background-position:center;
+}
+
+.holder { 
+  background-color:#fff;
+ /* width:300px;
+  height:250px;*/
+  overflow:hidden;
+  padding:10px;
+  font-family:Helvetica;
+}
+.holder .mask {
+  position: relative;
+  left: 0px;
+  top: 10px;
+  /*width:300px;
+  height:240px;*/
+  overflow: hidden;
+}
+.holder ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+  position: relative;
+}
+.holder ul li {
+  padding:20px 0px;
+font-size:15px;
+}
+.holder ul li a {
+  color: #3478df;
+  text-decoration:none;
+ 
+}
+
+.holder .batch_span{
+    color: orange;
+}
